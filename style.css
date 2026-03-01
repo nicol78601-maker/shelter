@@ -4,5 +4,9 @@ body{
 }
 
 li{
-    color: antiquewhite;
+    color: red;
+}
+home-image{
+    width: 250px;
+    border: 1px solid black;
 }
