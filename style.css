@@ -8,5 +8,11 @@ li{
 }
 home-image{
     width: 250px;
-    border: 1px solid black;
+    border: 1px solid black ;
+}
+.copyrights{
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
 }
